@@ -98,10 +98,7 @@ class Register extends React.Component {
                             </Form.Group>
 
                             <Form.Group as={Col} controlId="formGridLname">
-                            <Form.Label
-                                className="swing-in-left-fwd"
-                                style={{ animationDelay: "0.2s" }}
-                            >
+                            <Form.Label>
                                 Last Name
                             </Form.Label>
                             <Form.Control
